@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class waktu_ujian {
+public class tugas2_waktu_ujian {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
