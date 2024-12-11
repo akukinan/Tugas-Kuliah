@@ -1,20 +1,18 @@
-public class tugas1_operator_assignment {
-    public static void main(String[] args) {
+public static void main(String[] args) {
 
-        //Operator Assigment
-        int x;
-        x= 100;
-        System.out.println("x = " + x);
-        x += 5;
-        System.out.println("x += " + x);
-        x -= 5;
-        System.out.println("x -= " + x);
-        x /= 5;
-        System.out.println("x /= " + x);
-        x *= 5;
-        System.out.println("x *= " + x);
-        x %= 5;
-        System.out.println("x %= " + x);
-    }
+    //Operator Assigment
+    int x;
+    x = 100;
+    System.out.println("x = " + x);
+    x += 5;
+    System.out.println("x += " + x);
+    x -= 5;
+    System.out.println("x -= " + x);
+    x /= 5;
+    System.out.println("x /= " + x);
+    x *= 5;
+    System.out.println("x *= " + x);
+    x %= 5;
+    System.out.println("x %= " + x);
 }
 //Tugas Milik Kinantan
